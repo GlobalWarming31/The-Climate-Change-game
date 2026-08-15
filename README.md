@@ -44,5 +44,5 @@ Velocity: Choose a firing power between 1 and 150.
 
 Wind: Always check the top of the screen! The wind ranges from 1 to 15 mph and pushes left (<--) or right (-->). You must adjust your angle and power to compensate for the wind pushing your nuke off course.
 
-## 🎮 Join the TriCityMC discord for more games and tons of other projects like out Aol Instant Messenger Server 🎮
+## 🎮 Join the TriCityMC discord for more games and tons of other projects like our Aol Instant Messenger Server 🎮
 ## 🌍 https://discord.tricitymc.online 🌍
